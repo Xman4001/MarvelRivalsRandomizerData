@@ -1,0 +1,44 @@
+{
+    "Duelist": [
+        "Black Cat",
+        "Black Panther",
+        "Black Widow",
+        "Blade",
+        "Cyclops",
+        "DareDevil",
+        "DeadPool",
+        "Spider-Man",
+        "Storm",
+        "Hela",
+        "Psylocke",
+        "Wolverine",
+        "Iron Fist",
+        "Star-Lord",
+        "Punisher"
+    ],
+
+    "Vanguard": [
+        "Thor",
+        "The Hood",
+        "Hulk",
+        "Magneto",
+        "Groot",
+        "Venom",
+        "Captain America",
+        "The Thing",
+        "Doctor Strange",
+        "DeadPool"
+    ],
+
+    "Strategist": [
+        "Loki",
+        "Rocket",
+        "Mantis",
+        "Luna Snow",
+        "Adam Warlock",
+        "Invisible Woman",
+        "Cloak & Dagger",
+        "Jeff the Land Shark",
+        "DeadPool"
+    ]
+}
