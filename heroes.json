@@ -49,6 +49,83 @@
       "image": "deadpool.png",
       "enabled": true
     },
+     {
+      "id": "elsa-bloodstone",
+      "name": "Elsa Bloodstone",
+      "roles": ["Duelist"],
+      "image": "elsa-bloodstone.png",
+      "enabled": true
+    },
+     {
+      "id": "hawkeye",
+      "name": "hawkeye",
+      "roles": ["Duelist"],
+      "image": "Hawkeye.png",
+      "enabled": true
+    },
+        {
+      "id": "hela",
+      "name": "Hela",
+      "roles": ["Duelist"],
+      "image": "hela.png",
+      "enabled": true
+    },
+        {
+      "id": "human-torch",
+      "name": "Human Torch",
+      "roles": ["Duelist"],
+      "image": "human-torch.png",
+      "enabled": true
+    },
+        {
+      "id": "iron-fist",
+      "name": "Iron Fist",
+      "roles": ["Duelist"],
+      "image": "iron-fist.png",
+      "enabled": true
+    },
+        {
+      "id": "iron-man",
+      "name": "Iron Man",
+      "roles": ["Duelist"],
+      "image": "iron-man.png",
+      "enabled": true
+    },
+        {
+      "id": "magik",
+      "name": "Magik",
+      "roles": ["Duelist"],
+      "image": "Magik.png",
+      "enabled": true
+    },
+        {
+      "id": "mr-fantastic",
+      "name": "Mr Fantastic",
+      "roles": ["Duelist"],
+      "image": "mr-fantastic.png",
+      "enabled": true
+    },
+        {
+      "id": "moonknight",
+      "name": "Moonknight",
+      "roles": ["Duelist"],
+      "image": "iron-fist.png",
+      "enabled": true
+    },
+        {
+      "id": "namor",
+      "name": "Namor",
+      "roles": ["Duelist"],
+      "image": "Namor.png",
+      "enabled": true
+    },
+        {
+      "id": "iron-fist",
+      "name": "Iron Fist",
+      "roles": ["Duelist"],
+      "image": "iron-fist.png",
+      "enabled": true
+    },
     {
       "id": "spider-man",
       "name": "Spider-Man",
@@ -63,13 +140,7 @@
       "image": "storm.png",
       "enabled": true
     },
-    {
-      "id": "hela",
-      "name": "Hela",
-      "roles": ["Duelist"],
-      "image": "hela.png",
-      "enabled": true
-    },
+
     {
       "id": "psylocke",
       "name": "Psylocke",
@@ -84,13 +155,7 @@
       "image": "wolverine.png",
       "enabled": true
     },
-    {
-      "id": "iron-fist",
-      "name": "Iron Fist",
-      "roles": ["Duelist"],
-      "image": "iron-fist.png",
-      "enabled": true
-    },
+
     {
       "id": "star-lord",
       "name": "Star-Lord",
