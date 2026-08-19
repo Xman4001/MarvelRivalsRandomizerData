@@ -99,10 +99,10 @@
       "enabled": true
     },
     {
-      "id": "mister-fantastic",
+      "id": "mr-fantastic",
       "name": "Mr Fantastic",
       "roles": ["Duelist"],
-      "image": "Mister Fantastic.png",
+      "image": "Mr Fantastic.png",
       "enabled": true
     },
     {
@@ -179,7 +179,7 @@
       "id": "winter-soldier",
       "name": "Winter Soldier",
       "roles": ["Duelist"],
-      "image": "winter-soldier.png",
+      "image": "Winter Soldier.png",
       "enabled": true
     },
     {
