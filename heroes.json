@@ -253,7 +253,7 @@
       "enabled": true
     },
     {
-      "id": "Rogue",
+      "id": "rogue",
       "name": "Rogue",
       "roles": ["Vanguard"],
       "image": "rogue.png",
@@ -289,7 +289,7 @@
       "enabled": true
     },
     {
-      "id": "Gambit",
+      "id": "gambit",
       "name": "Gambit",
       "roles": ["Strategist"],
       "image": "gambit.png",
