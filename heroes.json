@@ -109,7 +109,7 @@
       "id": "moon-knight",
       "name": "Moon Knight",
       "roles": ["Duelist"],
-      "image": "iron-fist.png",
+      "image": "moon-knight.png",
       "enabled": true
     },
     {
@@ -117,13 +117,6 @@
       "name": "Namor",
       "roles": ["Duelist"],
       "image": "Namor.png",
-      "enabled": true
-    },
-    {
-      "id": "iron-fist",
-      "name": "Iron Fist",
-      "roles": ["Duelist"],
-      "image": "iron-fist.png",
       "enabled": true
     },
     {
