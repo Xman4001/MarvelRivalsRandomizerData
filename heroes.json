@@ -359,6 +359,13 @@
       "enabled": true
     },
     {
+      "id": "white-fox",
+      "name": "White Fox",
+      "roles": ["Strategist"],
+      "image": "White Fox.png",
+      "enabled": true
+    }
+    {
       "id": "ultron",
       "name": "Ultron",
       "roles": ["Strategist"],
