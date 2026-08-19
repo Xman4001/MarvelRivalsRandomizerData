@@ -126,6 +126,27 @@
       "image": "iron-fist.png",
       "enabled": true
     },
+        {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "roles": ["Duelist"],
+      "image": "Phoenix.png",
+      "enabled": true
+    },
+        {
+      "id": "psylocke",
+      "name": "Psylocke",
+      "roles": ["Duelist"],
+      "image": "psylocke.png",
+      "enabled": true
+    },
+        {
+      "id": "scarlet-witch",
+      "name": "Scarlet Witch",
+      "roles": ["Duelist"],
+      "image": "scarlet-witch.png",
+      "enabled": true
+    },
     {
       "id": "spider-man",
       "name": "Spider-Man",
@@ -138,14 +159,6 @@
       "name": "Storm",
       "roles": ["Duelist"],
       "image": "storm.png",
-      "enabled": true
-    },
-
-    {
-      "id": "psylocke",
-      "name": "Psylocke",
-      "roles": ["Duelist"],
-      "image": "psylocke.png",
       "enabled": true
     },
     {
