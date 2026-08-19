@@ -364,7 +364,7 @@
       "roles": ["Strategist"],
       "image": "White Fox.png",
       "enabled": true
-    }
+    },
     {
       "id": "ultron",
       "name": "Ultron",
