@@ -371,6 +371,6 @@
       "roles": ["Strategist"],
       "image": "ultron.png",
       "enabled": true
-    },
+    }
   ]
 }
