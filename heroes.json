@@ -102,7 +102,7 @@
       "id": "mister-fantastic",
       "name": "Mr Fantastic",
       "roles": ["Duelist"],
-      "image": "mr-fantastic.png",
+      "image": "Mister Fantastic.png",
       "enabled": true
     },
     {
@@ -137,7 +137,7 @@
       "id": "scarlet-witch",
       "name": "Scarlet Witch",
       "roles": ["Duelist"],
-      "image": "scarlet-witch.png",
+      "image": "Scarlet Witch.png",
       "enabled": true
     },
     {
