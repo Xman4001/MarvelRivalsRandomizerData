@@ -307,7 +307,7 @@
       "name": "Loki",
       "roles": ["Strategist"],
       "image": "loki.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "rocket",
