@@ -56,6 +56,13 @@
       "image": "elsa-bloodstone.png",
       "enabled": true
     },
+    {
+      "id": "gorr",
+      "name": "Gorr",
+      "roles": ["Duelist"],
+      "image": "gorr.png",
+      "enabled": true
+    },
      {
       "id": "hawkeye",
       "name": "Hawkeye",
